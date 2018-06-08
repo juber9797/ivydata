@@ -1,0 +1,4877 @@
+Organization-Wide Defaults		Organization-Wide Defaults Help  
+Object	Default Internal Access	Default External Access	Grant Access Using Hierarchies
+Lead	Public Read/Write/Transfer	Public Read/Write/Transfer	 
+Account, Contract and Asset	Private	Private	 
+Contact	Private	Private	 
+Order	Controlled by 
+Organization-Wide Defaults		Organization-Wide Defaults Help  
+Object	Default Internal Access	Default External Access	Grant Access Using Hierarchies
+Lead	Public Read/Write/Transfer	Public Read/Write/Transfer	 
+Account, Contract and Asset	Private	Private	 
+Contact	Private	Private	 
+Order	Controlled by Parent	Controlled by Parent	 
+Opportunity	Private	Private	 
+Case	Private	Private	 
+Campaign	Private	Private	 
+Campaign Member	Controlled by Campaign	Controlled by Campaign	 
+User	Public Read Only	Private	 
+Activity	Controlled by Parent	Controlled by Parent	 
+Calendar	Hide Details and Add Events	Hide Details and Add Events	 
+Price Book	Use	Use	 
+Flow Interview	Private	Private	 
+List Email	Private	Private	 
+Macro	Private	Private	 
+Quick Text	Private	Private	 
+Scorecard	Private	Private	 
+Social Post	Public Read/Write	Public Read/Write	 
+Streaming Channel	Public Read/Write	Public Read/Write	 
+User Provisioning Request	Private	Private	 
+Account Document	Private	Private	 
+Account Update Request	Controlled by Parent	Controlled by Parent	 
+Activity	Private	Private	 
+Answer Option	Private	Private	 
+Area Budget	Controlled by Parent	Controlled by Parent	 
+ATSM Anaplan Recommendation	Public Read Only	Public Read Only	 
+ATSM Anaplan SAO Output	Public Read Only	Public Read Only	 
+Banner	Private	Private	 
+Bill Of Material SKU Detail	Public Read/Write	Public Read/Write	 
+Bill Of Material SKU Detail(DEPRECATED)	Public Read/Write	Public Read/Write	 
+Call	Controlled by Parent	Controlled by Parent	 
+Call Activity	Private	Private	 
+Calls	Private	Private	 
+Call Type	Private	Private	 
+Call Type Activity	Controlled by Parent	Controlled by Parent	 
+Campaign	Private	Private	 
+Competitor Tracking	Public Read/Write	Public Read/Write	 
+Competitor Tracking Detail	Controlled by Parent	Controlled by Parent	 
+Compliance Score	Private	Private	 
+Config Activity Filter	Public Read Only	Public Read Only	 
+Contract Header	Private	Private	 
+Credit Details	Private	Private	 
+Credit Note	Public Read/Write	Public Read/Write	 
+Digital Content	Private	Private	 
+Digital Content Mapping	Controlled by Parent	Controlled by Parent	 
+Discount	Public Read/Write	Public Read/Write	 
+Discount Apply Detail	Public Read/Write	Public Read/Write	 
+Discount Detail	Controlled by Parent	Controlled by Parent	 
+Discount Mapping	Public Read/Write	Public Read/Write	 
+Enrolment	Controlled by Parent	Controlled by Parent	 
+Enrolment Details	Controlled by Parent	Controlled by Parent	 
+Error Log	Public Read/Write	Public Read/Write	 
+File Format	Public Read/Write	Public Read/Write	 
+Freshness Check	Private	Private	 
+Geographical Hierarchy	Private	Private	 
+Global Classification	Controlled by Parent	Controlled by Parent	 
+HHT Menu Master	Public Read Only	Public Read Only	 
+HHT Module Master	Public Read Only	Public Read Only	 
+Holiday	Private	Private	 
+Incentive	Controlled by Parent	Controlled by Parent	 
+Incentive Detail	Controlled by Parent	Controlled by Parent	 
+Incentive Mapping	Controlled by Parent	Controlled by Parent	 
+Incentive Master	Public Read/Write	Public Read/Write	 
+Incentive Scheme	Private	Private	 
+Initiative Mapping	Controlled by Parent	Controlled by Parent	 
+Initiative Master	Public Read/Write	Public Read/Write	 
+Initiative Products	Controlled by Parent	Controlled by Parent	 
+Invoice	Public Read/Write	Public Read/Write	 
+Invoice Line Item	Controlled by Parent	Controlled by Parent	 
+LabelsMaster	Public Read Only	Public Read Only	 
+Local Classification	Controlled by Parent	Controlled by Parent	 
+Local Classification Definition	Private	Private	 
+Location	Private	Private	 
+Loyalty Point	Private	Private	 
+Loyalty Points Detail	Controlled by Parent	Controlled by Parent	 
+Mixed SKU Detail	Public Read/Write	Public Read/Write	 
+Mixed SKU Detail (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Odometer Tracking	Public Read/Write	Public Read/Write	 
+Order	Public Read/Write	Public Read/Write	 
+Order Line Item	Controlled by Parent	Controlled by Parent	 
+Organisational Support Data	Controlled by Parent	Controlled by Parent	 
+Organizational Hierarchy	Private	Private	 
+Organization Hierarchy	Private	Private	 
+Outlet Subtype	Private	Private	 
+Payment	Public Read/Write	Public Read/Write	 
+Payment Reconciliation	Controlled by Parent	Controlled by Parent	 
+Payment Reconciliation Detail	Public Read/Write	Public Read/Write	 
+Period	Public Read/Write	Public Read/Write	 
+Photo Capture Tracking	Public Read/Write	Public Read/Write	 
+Picklist	Public Read/Write	Public Read/Write	 
+Picklist Detail	Public Read/Write	Public Read/Write	 
+Plan	Controlled by Parent	Controlled by Parent	 
+Planogram Master	Private	Private	 
+Planogram Target Mapping	Controlled by Parent	Controlled by Parent	 
+Planogram Tracking	Private	Private	 
+Position	Public Read/Write	Public Read/Write	 
+Price Check	Public Read/Write	Public Read/Write	 
+Price Check Mapping	Controlled by Parent	Controlled by Parent	 
+Price Check Tracking	Private	Private	 
+Price List	Public Read/Write	Public Read/Write	 
+Price List Entry	Controlled by Parent	Controlled by Parent	 
+Price List Mapping	Public Read/Write	Public Read/Write	 
+Price Promotion	Private	Private	 
+Product Alias	Controlled by Parent	Controlled by Parent	 
+Product Group	Private	Private	 
+Product Group Detail	Private	Private	 
+Product Group Mapping	Controlled by Parent	Controlled by Parent	 
+Product Hierarchy	Private	Private	 
+Product Master	Private	Private	 
+Product UOM	Controlled by Parent	Controlled by Parent	 
+Promotion	Public Read/Write	Public Read/Write	 
+Promotion Mapping	Controlled by Parent	Controlled by Parent	 
+Promotion Tracking	Controlled by Parent	Controlled by Parent	 
+Query Filter	Public Read/Write	Public Read/Write	 
+Question	Private	Private	 
+Question Answer Option	Controlled by Parent	Controlled by Parent	 
+Question Group	Public Read/Write	Public Read/Write	 
+Reason Master (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Resource	Private	Private	 
+Resource(Deprecated)	Private	Private	 
+Resource Territory Mapping	Private	Private	 
+Resource Type	Private	Private	 
+Resource Type(Deprecated)	Private	Private	 
+Retail Audit Tracking	Private	Private	 
+Return Detail	Public Read/Write	Public Read/Write	 
+Reward Payout	Private	Private	 
+Reward Slab	Private	Private	 
+Route	Private	Private	 
+Route Details	Controlled by Parent	Controlled by Parent	 
+Route Plan Detail	Controlled by Parent	Controlled by Parent	 
+Sales Fundamental Period	Public Read/Write	Public Read/Write	 
+Sales Fundamental Target Mapping	Controlled by Parent	Controlled by Parent	 
+Sales Fundamental Tracking	Public Read/Write	Public Read/Write	 
+Sales Org(Deprecated)	Public Read/Write	Public Read/Write	 
+Sales Return	Public Read/Write	Public Read/Write	 
+Sales Return Details	Controlled by Parent	Controlled by Parent	 
+Sales Return Request	Public Read/Write	Public Read/Write	 
+Sales Return Request Detail	Controlled by Parent	Controlled by Parent	 
+Sales Return SEN	Public Read/Write	Public Read/Write	 
+Sales Return SEN Detail	Controlled by Parent	Controlled by Parent	 
+Scheme	Public Read/Write	Public Read/Write	 
+Scheme Apply Detail	Public Read/Write	Public Read/Write	 
+Scheme Free Detail	Controlled by Parent	Controlled by Parent	 
+Scheme Group	Controlled by Parent	Controlled by Parent	 
+Scheme Group Product	Controlled by Parent	Controlled by Parent	 
+Scheme Mapping	Controlled by Parent	Controlled by Parent	 
+Scheme Slab	Controlled by Parent	Controlled by Parent	 
+Scheme Slab Target	Controlled by Parent	Controlled by Parent	 
+Slab	Private	Private	 
+Standard List Master	Public Read Only	Public Read Only	 
+Stock Allocation	Public Read/Write	Public Read/Write	 
+Stock Allocation Detail	Controlled by Parent	Controlled by Parent	 
+Stock Proposal	Public Read/Write	Public Read/Write	 
+Stock Proposal Detail	Controlled by Parent	Controlled by Parent	 
+Stock Reconciliation	Public Read/Write	Public Read/Write	 
+Stock Reconciliation Detail	Controlled by Parent	Controlled by Parent	 
+Store Hierarchy	Public Read/Write	Public Read/Write	 
+Store Participant	Controlled by Parent	Controlled by Parent	 
+Store Tagging	Controlled by Parent	Controlled by Parent	 
+Suggested Load	Public Read/Write	Public Read/Write	 
+Suggested Quantity	Controlled by Parent	Controlled by Parent	 
+Survey	Private	Private	 
+Survey Image	Public Read/Write	Public Read/Write	 
+Survey Question	Controlled by Parent	Controlled by Parent	 
+Survey Result	Private	Private	 
+Survey Result (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Survey Result Detail	Controlled by Parent	Controlled by Parent	 
+Survey Result Detail Answer Option	Private	Private	 
+Survey Targeting	Controlled by Parent	Controlled by Parent	 
+Survey Target Query	Public Read/Write	Public Read/Write	 
+Target	Public Read/Write	Public Read/Write	 
+Target Detail	Public Read/Write	Public Read/Write	 
+Tax	Public Read/Write	Public Read/Write	 
+Tax Classification(Deprecated)	Public Read/Write	Public Read/Write	 
+Tax Group	Public Read/Write	Public Read/Write	 
+Tax Group Detail	Controlled by Parent	Controlled by Parent	 
+Tax Mapping	Public Read/Write	Public Read/Write	 
+Territory	Public Read/Write	Public Read/Write	 
+Territory Participant	Public Read/Write	Public Read/Write	 
+Territory Store Mapping	Controlled by Parent	Controlled by Parent	 
+Touchpoint	Private	Private	 
+Touchpoint Item	Controlled by Parent	Controlled by Parent	 
+Touchpoint Mapping	Private	Private	 
+Touchpoint Tracking	Private	Private	 
+Upload File Column	Public Read/Write	Public Read/Write	 
+Upload Status	Public Read/Write	Public Read/Write	 
+Van Delivery Tracking	Public Read/Write	Public Read/Write	 
+Van Delivery Tracking Detail	Controlled by Parent	Controlled by Parent	 
+Van Unload	Public Read/Write	Public Read/Write	 
+Van Unload Detail	Controlled by Parent	Controlled by Parent	 
+Visit Detail	Public Read Only	Public Read Only	 
+Visit Frequency	Public Read/Write	Public Read/Write	 
+Visit Plan	Private	Private	 
+Visit Plan (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Visit Time	Controlled by Parent	Controlled by Parent	 
+				
+
+ 
+Other Settings	 	Other Settings Help 
+Manager Groups	 
+ 
+
+				
+Sharing Rules
+ 
+Lead Sharing Rules	 	Lead Sharing Rules Help  
+No sharing rules specified.	
+ 
+Account Sharing Rules	 	Account Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Account, Contract and Asset	Contact	Opportunity	Case
+Edit | Del
+(Account: Market ISOEQUALSAU) AND (Account: Account Record TypeNOT EQUAL TOOutlet)	Role and Subordinates: Australia
+Read Only	Private	Private	Private
+Edit | Del
+(Account: Account Record TypeNOT EQUAL TOOutlet)AND (Account: Market ISOEQUALSNZ)	Role and Subordinates: NewZealand
+Read Only	Private	Private	Private
+Edit | Del
+Owner in Role: Australasia_CL
+Role: Australasia_CL
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: UCCAB_CL
+Role and Subordinates: UCCAB_CL
+Read Only	Read Only	Private	Private
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write	Read/Write	Private	Private
+ 
+Contact Sharing Rules	 	Contact Sharing Rules Help  
+		
+								
+
+No sharing rules specified.
+ 
+Opportunity Sharing Rules	 	Opportunity Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Case Sharing Rules	 	Case Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Campaign Sharing Rules	 	Campaign Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+User Sharing Rules	 	User Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	User
+Edit | Del
+Member of Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Member of Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Member of Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Flow Interview Sharing Rules	 	Flow Interview Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+List Email Sharing Rules	 	List Email Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Macro Sharing Rules	 	Macro Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Quick Text Sharing Rules	 	Quick Text Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scorecard Sharing Rules	 	Scorecard Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Social Post Sharing Rules	 	Social Post Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Streaming Channel Sharing Rules	 	Streaming Channel Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+User Provisioning Request Sharing Rules	 	User Provisioning Request Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Account Document Sharing Rules	 	Account Document Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australasia_CL
+Role: Australasia_CL
+Read/Write
+Edit | Del
+Owner in Role: Australasia_CL
+Role and Subordinates: Australasia_CL
+Read Only
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: UCCAB_CL
+Role and Subordinates: UCCAB_CL
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Activity Sharing Rules	 	Activity Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Answer Option Sharing Rules	 	Answer Option Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+ATSM Anaplan Recommendation Sharing Rules	 	ATSM Anaplan Recommendation Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+ATSM Anaplan SAO Output Sharing Rules	 	ATSM Anaplan SAO Output Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Banner Sharing Rules	 	Banner Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Bill Of Material SKU Detail Sharing Rules	 	Bill Of Material SKU Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Bill Of Material SKU Detail(DEPRECATED) Sharing Rules	 	Bill Of Material SKU Detail(DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Call Activity Sharing Rules	 	Call Activity Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Calls Sharing Rules	 	Calls Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Call Type Sharing Rules	 	Call Type Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Campaign Sharing Rules	 	Campaign Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Competitor Tracking Sharing Rules	 	Competitor Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Compliance Score Sharing Rules	 	Compliance Score Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Config Activity Filter Sharing Rules	 	Config Activity Filter Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Contract Header Sharing Rules	 	Contract Header Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Credit Details Sharing Rules	 	Credit Details Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Credit Note Sharing Rules	 	Credit Note Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Digital Content Sharing Rules	 	Digital Content Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Discount Sharing Rules	 	Discount Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Discount Apply Detail Sharing Rules	 	Discount Apply Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Discount Mapping Sharing Rules	 	Discount Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Error Log Sharing Rules	 	Error Log Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+File Format Sharing Rules	 	File Format Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Freshness Check Sharing Rules	 	Freshness Check Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Geographical Hierarchy Sharing Rules	 	Geographical Hierarchy Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+HHT Menu Master Sharing Rules	 	HHT Menu Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+HHT Module Master Sharing Rules	 	HHT Module Master Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Holiday Sharing Rules	 	Holiday Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Incentive Master Sharing Rules	 	Incentive Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Incentive Scheme Sharing Rules	 	Incentive Scheme Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Initiative Master Sharing Rules	 	Initiative Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Invoice Sharing Rules	 	Invoice Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+LabelsMaster Sharing Rules	 	LabelsMaster Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Local Classification Definition Sharing Rules	 	Local Classification Definition Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Location Sharing Rules	 	Location Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Loyalty Point Sharing Rules	 	Loyalty Point Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Mixed SKU Detail Sharing Rules	 	Mixed SKU Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Mixed SKU Detail (DEPRECATED) Sharing Rules	 	Mixed SKU Detail (DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Odometer Tracking Sharing Rules	 	Odometer Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Order Sharing Rules	 	Order Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Organizational Hierarchy Sharing Rules	 	Organizational Hierarchy Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Organization Hierarchy Sharing Rules	 	Organization Hierarchy Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Outlet Subtype Sharing Rules	 	Outlet Subtype Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Payment Sharing Rules	 	Payment Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Payment Reconciliation Detail Sharing Rules	 	Payment Reconciliation Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Period Sharing Rules	 	Period Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Photo Capture Tracking Sharing Rules	 	Photo Capture Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Picklist Sharing Rules	 	Picklist Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Picklist Detail Sharing Rules	 	Picklist Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Planogram Master Sharing Rules	 	Planogram Master Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Planogram Tracking Sharing Rules	 	Planogram Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Position Sharing Rules	 	Position Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Price Check Sharing Rules	 	Price Check Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Price Check Tracking Sharing Rules	 	Price Check Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Price List Sharing Rules	 	Price List Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Price List Mapping Sharing Rules	 	Price List Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Price Promotion Sharing Rules	 	Price Promotion Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Product Group Sharing Rules	 	Product Group Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Group Detail Sharing Rules	 	Product Group Detail Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Hierarchy Sharing Rules	 	Product Hierarchy Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Master Sharing Rules	 	Product Master Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Promotion Sharing Rules	 	Promotion Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Query Filter Sharing Rules	 	Query Filter Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Question Sharing Rules	 	Question Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Question Group Sharing Rules	 	Question Group Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Reason Master (DEPRECATED) Sharing Rules	 	Reason Master (DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Resource Sharing Rules	 	Resource Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Resource(Deprecated) Sharing Rules	 	Resource(Deprecated) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Resource Territory Mapping Sharing Rules	 	Resource Territory Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Resource Type Sharing Rules	 	Resource Type Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Resource Type(Deprecated) Sharing Rules	 	Resource Type(Deprecated) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Retail Audit Tracking Sharing Rules	 	Retail Audit Tracking Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Return Detail Sharing Rules	 	Return Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Reward Payout Sharing Rules	 	Reward Payout Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Reward Slab Sharing Rules	 	Reward Slab Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Route Sharing Rules	 	Route Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Sales Fundamental Period Sharing Rules	 	Sales Fundamental Period Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Sales Fundamental Tracking Sharing Rules	 	Sales Fundamental Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Sales Org(Deprecated) Sharing Rules	 	Sales Org(Deprecated) Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Sales Return Sharing Rules	 	Sales Return Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Sales Return Request Sharing Rules	 	Sales Return Request Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Sales Return SEN Sharing Rules	 	Sales Return SEN Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scheme Sharing Rules	 	Scheme Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scheme Apply Detail Sharing Rules	 	Scheme Apply Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Slab Sharing Rules	 	Slab Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Standard List Master Sharing Rules	 	Standard List Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Stock Allocation Sharing Rules	 	Stock Allocation Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Stock Proposal Sharing Rules	 	Stock Proposal Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Stock Reconciliation Sharing Rules	 	Stock Reconciliation Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Store Hierarchy Sharing Rules	 	Store Hierarchy Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Suggested Load Sharing Rules	 	Suggested Load Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Survey Sharing Rules	 	Survey Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Survey Image Sharing Rules	 	Survey Image Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Survey Result Sharing Rules	 	Survey Result Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Survey Result (DEPRECATED) Sharing Rules	 	Survey Result (DEPRECATED) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Survey Result Detail Answer Option Sharing Rules	 	Survey Result Detail Answer Option Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+ 
+Survey Target Query Sharing Rules	 	Survey Target Query Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Target Sharing Rules	 	Target Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Target Detail Sharing Rules	 	Target Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Tax Sharing Rules	 	Tax Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Tax Classification(Deprecated) Sharing Rules	 	Tax Classification(Deprecated) Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Tax Group Sharing Rules	 	Tax Group Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Tax Mapping Sharing Rules	 	Tax Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Territory Sharing Rules	 	Territory Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Territory Participant Sharing Rules	 	Territory Participant Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Sharing Rules	 	Touchpoint Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Mapping Sharing Rules	 	Touchpoint Mapping Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Tracking Sharing Rules	 	Touchpoint Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Upload File Column Sharing Rules	 	Upload File Column Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Upload Status Sharing Rules	 	Upload Status Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Van Delivery Tracking Sharing Rules	 	Van Delivery Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Van Unload Sharing Rules	 	Van Unload Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Detail Sharing Rules	 	Visit Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Frequency Sharing Rules	 	Visit Frequency Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Plan Sharing Rules	 	Visit Plan Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+	Controlled by Parent	 
+Opportunity	Private	Private	 
+Case	Private	Private	 
+Campaign	Private	Private	 
+Campaign Member	Controlled by Campaign	Controlled by Campaign	 
+User	Public Read Only	Private	 
+Activity	Controlled by Parent	Controlled by Parent	 
+Calendar	Hide Details and Add Events	Hide Details and Add Events	 
+Price Book	Use	Use	 
+Flow Interview	Private	Private	 
+List Email	Private	Private	 
+Macro	Private	Private	 
+Quick Text	Private	Private	 
+Scorecard	Private	Private	 
+Social Post	Public Read/Write	Public Read/Write	 
+Streaming Channel	Public Read/Write	Public Read/Write	 
+User Provisioning Request	Private	Private	 
+Account Document	Private	Private	 
+Account Update Request	Controlled by Parent	Controlled by Parent	 
+Activity	Private	Private	 
+Answer Option	Private	Private	 
+Area Budget	Controlled by Parent	Controlled by Parent	 
+ATSM Anaplan Recommendation	Public Read Only	Public Read Only	 
+ATSM Anaplan SAO Output	Public Read Only	Public Read Only	 
+Banner	Private	Private	 
+Bill Of Material SKU Detail	Public Read/Write	Public Read/Write	 
+Bill Of Material SKU Detail(DEPRECATED)	Public Read/Write	Public Read/Write	 
+Call	Controlled by Parent	Controlled by Parent	 
+Call Activity	Private	Private	 
+Calls	Private	Private	 
+Call Type	Private	Private	 
+Call Type Activity	Controlled by Parent	Controlled by Parent	 
+Campaign	Private	Private	 
+Competitor Tracking	Public Read/Write	Public Read/Write	 
+Competitor Tracking Detail	Controlled by Parent	Controlled by Parent	 
+Compliance Score	Private	Private	 
+Config Activity Filter	Public Read Only	Public Read Only	 
+Contract Header	Private	Private	 
+Credit Details	Private	Private	 
+Credit Note	Public Read/Write	Public Read/Write	 
+Digital Content	Private	Private	 
+Digital Content Mapping	Controlled by Parent	Controlled by Parent	 
+Discount	Public Read/Write	Public Read/Write	 
+Discount Apply Detail	Public Read/Write	Public Read/Write	 
+Discount Detail	Controlled by Parent	Controlled by Parent	 
+Discount Mapping	Public Read/Write	Public Read/Write	 
+Enrolment	Controlled by Parent	Controlled by Parent	 
+Enrolment Details	Controlled by Parent	Controlled by Parent	 
+Error Log	Public Read/Write	Public Read/Write	 
+File Format	Public Read/Write	Public Read/Write	 
+Freshness Check	Private	Private	 
+Geographical Hierarchy	Private	Private	 
+Global Classification	Controlled by Parent	Controlled by Parent	 
+HHT Menu Master	Public Read Only	Public Read Only	 
+HHT Module Master	Public Read Only	Public Read Only	 
+Holiday	Private	Private	 
+Incentive	Controlled by Parent	Controlled by Parent	 
+Incentive Detail	Controlled by Parent	Controlled by Parent	 
+Incentive Mapping	Controlled by Parent	Controlled by Parent	 
+Incentive Master	Public Read/Write	Public Read/Write	 
+Incentive Scheme	Private	Private	 
+Initiative Mapping	Controlled by Parent	Controlled by Parent	 
+Initiative Master	Public Read/Write	Public Read/Write	 
+Initiative Products	Controlled by Parent	Controlled by Parent	 
+Invoice	Public Read/Write	Public Read/Write	 
+Invoice Line Item	Controlled by Parent	Controlled by Parent	 
+LabelsMaster	Public Read Only	Public Read Only	 
+Local Classification	Controlled by Parent	Controlled by Parent	 
+Local Classification Definition	Private	Private	 
+Location	Private	Private	 
+Loyalty Point	Private	Private	 
+Loyalty Points Detail	Controlled by Parent	Controlled by Parent	 
+Mixed SKU Detail	Public Read/Write	Public Read/Write	 
+Mixed SKU Detail (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Odometer Tracking	Public Read/Write	Public Read/Write	 
+Order	Public Read/Write	Public Read/Write	 
+Order Line Item	Controlled by Parent	Controlled by Parent	 
+Organisational Support Data	Controlled by Parent	Controlled by Parent	 
+Organizational Hierarchy	Private	Private	 
+Organization Hierarchy	Private	Private	 
+Outlet Subtype	Private	Private	 
+Payment	Public Read/Write	Public Read/Write	 
+Payment Reconciliation	Controlled by Parent	Controlled by Parent	 
+Payment Reconciliation Detail	Public Read/Write	Public Read/Write	 
+Period	Public Read/Write	Public Read/Write	 
+Photo Capture Tracking	Public Read/Write	Public Read/Write	 
+Picklist	Public Read/Write	Public Read/Write	 
+Picklist Detail	Public Read/Write	Public Read/Write	 
+Plan	Controlled by Parent	Controlled by Parent	 
+Planogram Master	Private	Private	 
+Planogram Target Mapping	Controlled by Parent	Controlled by Parent	 
+Planogram Tracking	Private	Private	 
+Position	Public Read/Write	Public Read/Write	 
+Price Check	Public Read/Write	Public Read/Write	 
+Price Check Mapping	Controlled by Parent	Controlled by Parent	 
+Price Check Tracking	Private	Private	 
+Price List	Public Read/Write	Public Read/Write	 
+Price List Entry	Controlled by Parent	Controlled by Parent	 
+Price List Mapping	Public Read/Write	Public Read/Write	 
+Price Promotion	Private	Private	 
+Product Alias	Controlled by Parent	Controlled by Parent	 
+Product Group	Private	Private	 
+Product Group Detail	Private	Private	 
+Product Group Mapping	Controlled by Parent	Controlled by Parent	 
+Product Hierarchy	Private	Private	 
+Product Master	Private	Private	 
+Product UOM	Controlled by Parent	Controlled by Parent	 
+Promotion	Public Read/Write	Public Read/Write	 
+Promotion Mapping	Controlled by Parent	Controlled by Parent	 
+Promotion Tracking	Controlled by Parent	Controlled by Parent	 
+Query Filter	Public Read/Write	Public Read/Write	 
+Question	Private	Private	 
+Question Answer Option	Controlled by Parent	Controlled by Parent	 
+Question Group	Public Read/Write	Public Read/Write	 
+Reason Master (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Resource	Private	Private	 
+Resource(Deprecated)	Private	Private	 
+Resource Territory Mapping	Private	Private	 
+Resource Type	Private	Private	 
+Resource Type(Deprecated)	Private	Private	 
+Retail Audit Tracking	Private	Private	 
+Return Detail	Public Read/Write	Public Read/Write	 
+Reward Payout	Private	Private	 
+Reward Slab	Private	Private	 
+Route	Private	Private	 
+Route Details	Controlled by Parent	Controlled by Parent	 
+Route Plan Detail	Controlled by Parent	Controlled by Parent	 
+Sales Fundamental Period	Public Read/Write	Public Read/Write	 
+Sales Fundamental Target Mapping	Controlled by Parent	Controlled by Parent	 
+Sales Fundamental Tracking	Public Read/Write	Public Read/Write	 
+Sales Org(Deprecated)	Public Read/Write	Public Read/Write	 
+Sales Return	Public Read/Write	Public Read/Write	 
+Sales Return Details	Controlled by Parent	Controlled by Parent	 
+Sales Return Request	Public Read/Write	Public Read/Write	 
+Sales Return Request Detail	Controlled by Parent	Controlled by Parent	 
+Sales Return SEN	Public Read/Write	Public Read/Write	 
+Sales Return SEN Detail	Controlled by Parent	Controlled by Parent	 
+Scheme	Public Read/Write	Public Read/Write	 
+Scheme Apply Detail	Public Read/Write	Public Read/Write	 
+Scheme Free Detail	Controlled by Parent	Controlled by Parent	 
+Scheme Group	Controlled by Parent	Controlled by Parent	 
+Scheme Group Product	Controlled by Parent	Controlled by Parent	 
+Scheme Mapping	Controlled by Parent	Controlled by Parent	 
+Scheme Slab	Controlled by Parent	Controlled by Parent	 
+Scheme Slab Target	Controlled by Parent	Controlled by Parent	 
+Slab	Private	Private	 
+Standard List Master	Public Read Only	Public Read Only	 
+Stock Allocation	Public Read/Write	Public Read/Write	 
+Stock Allocation Detail	Controlled by Parent	Controlled by Parent	 
+Stock Proposal	Public Read/Write	Public Read/Write	 
+Stock Proposal Detail	Controlled by Parent	Controlled by Parent	 
+Stock Reconciliation	Public Read/Write	Public Read/Write	 
+Stock Reconciliation Detail	Controlled by Parent	Controlled by Parent	 
+Store Hierarchy	Public Read/Write	Public Read/Write	 
+Store Participant	Controlled by Parent	Controlled by Parent	 
+Store Tagging	Controlled by Parent	Controlled by Parent	 
+Suggested Load	Public Read/Write	Public Read/Write	 
+Suggested Quantity	Controlled by Parent	Controlled by Parent	 
+Survey	Private	Private	 
+Survey Image	Public Read/Write	Public Read/Write	 
+Survey Question	Controlled by Parent	Controlled by Parent	 
+Survey Result	Private	Private	 
+Survey Result (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Survey Result Detail	Controlled by Parent	Controlled by Parent	 
+Survey Result Detail Answer Option	Private	Private	 
+Survey Targeting	Controlled by Parent	Controlled by Parent	 
+Survey Target Query	Public Read/Write	Public Read/Write	 
+Target	Public Read/Write	Public Read/Write	 
+Target Detail	Public Read/Write	Public Read/Write	 
+Tax	Public Read/Write	Public Read/Write	 
+Tax Classification(Deprecated)	Public Read/Write	Public Read/Write	 
+Tax Group	Public Read/Write	Public Read/Write	 
+Tax Group Detail	Controlled by Parent	Controlled by Parent	 
+Tax Mapping	Public Read/Write	Public Read/Write	 
+Territory	Public Read/Write	Public Read/Write	 
+Territory Participant	Public Read/Write	Public Read/Write	 
+Territory Store Mapping	Controlled by Parent	Controlled by Parent	 
+Touchpoint	Private	Private	 
+Touchpoint Item	Controlled by Parent	Controlled by Parent	 
+Touchpoint Mapping	Private	Private	 
+Touchpoint Tracking	Private	Private	 
+Upload File Column	Public Read/Write	Public Read/Write	 
+Upload Status	Public Read/Write	Public Read/Write	 
+Van Delivery Tracking	Public Read/Write	Public Read/Write	 
+Van Delivery Tracking Detail	Controlled by Parent	Controlled by Parent	 
+Van Unload	Public Read/Write	Public Read/Write	 
+Van Unload Detail	Controlled by Parent	Controlled by Parent	 
+Visit Detail	Public Read Only	Public Read Only	 
+Visit Frequency	Public Read/Write	Public Read/Write	 
+Visit Plan	Private	Private	 
+Visit Plan (DEPRECATED)	Public Read/Write	Public Read/Write	 
+Visit Time	Controlled by Parent	Controlled by Parent	 
+
+ 
+Other Settings	 	Other Settings Help 
+Manager Groups	 
+ 
+
+				
+Sharing Rules
+ 
+Lead Sharing Rules	 	Lead Sharing Rules Help  
+No sharing rules specified.	
+ 
+Account Sharing Rules	 	Account Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Account, Contract and Asset	Contact	Opportunity	Case
+Edit | Del
+(Account: Market ISOEQUALSAU) AND (Account: Account Record TypeNOT EQUAL TOOutlet)	Role and Subordinates: Australia
+Read Only	Private	Private	Private
+Edit | Del
+(Account: Account Record TypeNOT EQUAL TOOutlet)AND (Account: Market ISOEQUALSNZ)	Role and Subordinates: NewZealand
+Read Only	Private	Private	Private
+Edit | Del
+Owner in Role: Australasia_CL
+Role: Australasia_CL
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: UCCAB_CL
+Role and Subordinates: UCCAB_CL
+Read Only	Read Only	Private	Private
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write	Read/Write	Private	Private
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write	Read/Write	Private	Private
+ 
+Contact Sharing Rules	 	Contact Sharing Rules Help  
+		
+								
+
+No sharing rules specified.
+ 
+Opportunity Sharing Rules	 	Opportunity Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Case Sharing Rules	 	Case Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Campaign Sharing Rules	 	Campaign Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+User Sharing Rules	 	User Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	User
+Edit | Del
+Member of Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Member of Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Member of Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Flow Interview Sharing Rules	 	Flow Interview Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+List Email Sharing Rules	 	List Email Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Macro Sharing Rules	 	Macro Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Quick Text Sharing Rules	 	Quick Text Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scorecard Sharing Rules	 	Scorecard Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Social Post Sharing Rules	 	Social Post Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Streaming Channel Sharing Rules	 	Streaming Channel Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+User Provisioning Request Sharing Rules	 	User Provisioning Request Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Account Document Sharing Rules	 	Account Document Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australasia_CL
+Role: Australasia_CL
+Read/Write
+Edit | Del
+Owner in Role: Australasia_CL
+Role and Subordinates: Australasia_CL
+Read Only
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: UCCAB_CL
+Role and Subordinates: UCCAB_CL
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Activity Sharing Rules	 	Activity Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Answer Option Sharing Rules	 	Answer Option Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+ATSM Anaplan Recommendation Sharing Rules	 	ATSM Anaplan Recommendation Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+ATSM Anaplan SAO Output Sharing Rules	 	ATSM Anaplan SAO Output Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Banner Sharing Rules	 	Banner Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Bill Of Material SKU Detail Sharing Rules	 	Bill Of Material SKU Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Bill Of Material SKU Detail(DEPRECATED) Sharing Rules	 	Bill Of Material SKU Detail(DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Call Activity Sharing Rules	 	Call Activity Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Calls Sharing Rules	 	Calls Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Call Type Sharing Rules	 	Call Type Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Campaign Sharing Rules	 	Campaign Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Competitor Tracking Sharing Rules	 	Competitor Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Compliance Score Sharing Rules	 	Compliance Score Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Config Activity Filter Sharing Rules	 	Config Activity Filter Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Contract Header Sharing Rules	 	Contract Header Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Credit Details Sharing Rules	 	Credit Details Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Credit Note Sharing Rules	 	Credit Note Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Digital Content Sharing Rules	 	Digital Content Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Discount Sharing Rules	 	Discount Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Discount Apply Detail Sharing Rules	 	Discount Apply Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Discount Mapping Sharing Rules	 	Discount Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Error Log Sharing Rules	 	Error Log Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+File Format Sharing Rules	 	File Format Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Freshness Check Sharing Rules	 	Freshness Check Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Geographical Hierarchy Sharing Rules	 	Geographical Hierarchy Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+HHT Menu Master Sharing Rules	 	HHT Menu Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+HHT Module Master Sharing Rules	 	HHT Module Master Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Holiday Sharing Rules	 	Holiday Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Incentive Master Sharing Rules	 	Incentive Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Incentive Scheme Sharing Rules	 	Incentive Scheme Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Initiative Master Sharing Rules	 	Initiative Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Invoice Sharing Rules	 	Invoice Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+LabelsMaster Sharing Rules	 	LabelsMaster Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Local Classification Definition Sharing Rules	 	Local Classification Definition Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Location Sharing Rules	 	Location Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Loyalty Point Sharing Rules	 	Loyalty Point Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Mixed SKU Detail Sharing Rules	 	Mixed SKU Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Mixed SKU Detail (DEPRECATED) Sharing Rules	 	Mixed SKU Detail (DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Odometer Tracking Sharing Rules	 	Odometer Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Order Sharing Rules	 	Order Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Organizational Hierarchy Sharing Rules	 	Organizational Hierarchy Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Organization Hierarchy Sharing Rules	 	Organization Hierarchy Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Outlet Subtype Sharing Rules	 	Outlet Subtype Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Payment Sharing Rules	 	Payment Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Payment Reconciliation Detail Sharing Rules	 	Payment Reconciliation Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Period Sharing Rules	 	Period Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Photo Capture Tracking Sharing Rules	 	Photo Capture Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Picklist Sharing Rules	 	Picklist Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Picklist Detail Sharing Rules	 	Picklist Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Planogram Master Sharing Rules	 	Planogram Master Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Planogram Tracking Sharing Rules	 	Planogram Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Position Sharing Rules	 	Position Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Price Check Sharing Rules	 	Price Check Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Price Check Tracking Sharing Rules	 	Price Check Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Price List Sharing Rules	 	Price List Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Price List Mapping Sharing Rules	 	Price List Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Price Promotion Sharing Rules	 	Price Promotion Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Product Group Sharing Rules	 	Product Group Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Group Detail Sharing Rules	 	Product Group Detail Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Hierarchy Sharing Rules	 	Product Hierarchy Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Product Master Sharing Rules	 	Product Master Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Promotion Sharing Rules	 	Promotion Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Query Filter Sharing Rules	 	Query Filter Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Question Sharing Rules	 	Question Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Question Group Sharing Rules	 	Question Group Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Reason Master (DEPRECATED) Sharing Rules	 	Reason Master (DEPRECATED) Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Resource Sharing Rules	 	Resource Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Resource(Deprecated) Sharing Rules	 	Resource(Deprecated) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Resource Territory Mapping Sharing Rules	 	Resource Territory Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Resource Type Sharing Rules	 	Resource Type Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Resource Type(Deprecated) Sharing Rules	 	Resource Type(Deprecated) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Retail Audit Tracking Sharing Rules	 	Retail Audit Tracking Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Return Detail Sharing Rules	 	Return Detail Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Reward Payout Sharing Rules	 	Reward Payout Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read Only
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read Only
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read Only
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read Only
+ 
+Reward Slab Sharing Rules	 	Reward Slab Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Route Sharing Rules	 	Route Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Sales Fundamental Period Sharing Rules	 	Sales Fundamental Period Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Sales Fundamental Tracking Sharing Rules	 	Sales Fundamental Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Sales Org(Deprecated) Sharing Rules	 	Sales Org(Deprecated) Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Sales Return Sharing Rules	 	Sales Return Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Sales Return Request Sharing Rules	 	Sales Return Request Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Sales Return SEN Sharing Rules	 	Sales Return SEN Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scheme Sharing Rules	 	Scheme Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Scheme Apply Detail Sharing Rules	 	Scheme Apply Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Slab Sharing Rules	 	Slab Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+ 
+Standard List Master Sharing Rules	 	Standard List Master Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Stock Allocation Sharing Rules	 	Stock Allocation Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Stock Proposal Sharing Rules	 	Stock Proposal Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Stock Reconciliation Sharing Rules	 	Stock Reconciliation Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Store Hierarchy Sharing Rules	 	Store Hierarchy Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Suggested Load Sharing Rules	 	Suggested Load Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Survey Sharing Rules	 	Survey Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Survey Image Sharing Rules	 	Survey Image Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Survey Result Sharing Rules	 	Survey Result Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Survey Result (DEPRECATED) Sharing Rules	 	Survey Result (DEPRECATED) Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Survey Result Detail Answer Option Sharing Rules	 	Survey Result Detail Answer Option Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+ 
+Survey Target Query Sharing Rules	 	Survey Target Query Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Target Sharing Rules	 	Target Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Target Detail Sharing Rules	 	Target Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Tax Sharing Rules	 	Tax Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Tax Classification(Deprecated) Sharing Rules	 	Tax Classification(Deprecated) Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Tax Group Sharing Rules	 	Tax Group Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Tax Mapping Sharing Rules	 	Tax Mapping Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Territory Sharing Rules	 	Territory Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Territory Participant Sharing Rules	 	Territory Participant Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read Only
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read Only
+Edit | Del
+Owner in Role: Ukraine
+Role: Ukraine
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Sharing Rules	 	Touchpoint Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia
+Role: Australia
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv
+Role: Australia_AustraliaDiv
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand
+Role: NewZealand
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv
+Role: NewZealand_NewZealandDiv
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Mapping Sharing Rules	 	Touchpoint Mapping Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read Only
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read Only
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read Only
+ 
+Touchpoint Tracking Sharing Rules	 	Touchpoint Tracking Sharing Rules Help  
+				
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_NSW/ACT
+Role: Australia_AustraliaDiv_NSW/ACT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_QLD
+Role: Australia_AustraliaDiv_QLD
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_SA/NT
+Role: Australia_AustraliaDiv_SA/NT
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_VIC/TAS
+Role: Australia_AustraliaDiv_VIC/TAS
+Read/Write
+Edit | Del
+Owner in Role: Australia_AustraliaDiv_WA
+Role: Australia_AustraliaDiv_WA
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Role: NewZealand_NewZealandDiv_NewZealandDummyReg
+Read/Write
+Edit | Del
+Owner in Role: NewZealand_NewZealandDiv_NewZealandReg
+Role: NewZealand_NewZealandDiv_NewZealandReg
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_East
+Role: Ukraine_UkraineDiv_East
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_North
+Role: Ukraine_UkraineDiv_North
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_South
+Role: Ukraine_UkraineDiv_South
+Read/Write
+Edit | Del
+Owner in Role: Ukraine_UkraineDiv_West
+Role: Ukraine_UkraineDiv_West
+Read/Write
+ 
+Upload File Column Sharing Rules	 	Upload File Column Sharing Rules Help  
+				
+
+No sharing rules specified.
+ 
+Upload Status Sharing Rules	 	Upload Status Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Van Delivery Tracking Sharing Rules	 	Van Delivery Tracking Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Van Unload Sharing Rules	 	Van Unload Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Detail Sharing Rules	 	Visit Detail Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Frequency Sharing Rules	 	Visit Frequency Sharing Rules Help  
+			
+
+No sharing rules specified.
+ 
+Visit Plan Sharing Rules	 	Visit Plan Sharing Rules Help  
+			
+
+Action	Criteria	Shared With	Access Level
+Edit | Del
+Owner in Role and Subordinates: Australia
+Role and Subordinates: Australia
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: NewZealand
+Role and Subordinates: NewZealand
+Read/Write
+Edit | Del
+Owner in Role and Subordinates: Ukraine
+Role and Subordinates: Ukraine
+Read/Write
+
